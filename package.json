@@ -1,13 +1,13 @@
 {
   "name": "atomtest",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "Hello World",
   "keywords": [
-    "syntax",
-    "theme"
+    "Hello",
+    "World"
   ],
-  "repository": "https://github.com/atom/atomtest",
+  "repository": "https://github.com/aduno168/atomtest",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
