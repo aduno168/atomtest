@@ -1,12 +1,12 @@
 {
-  "name": "atomtest3",
+  "name": "atommark1",
   "theme": "syntax",
-  "version": "0.0.2",
-  "description": "Hello World V.3",
+  "version": "0.0.1",
+  "description": "Hello World Mark.1",
   "keywords": [
     "Hello",
     "World",
-    "v3"
+    "atommark1"
   ],
   "repository": "https://github.com/aduno168/atomtest",
   "license": "MIT",
