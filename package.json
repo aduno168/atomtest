@@ -1,12 +1,12 @@
 {
-  "name": "atomtest2",
+  "name": "atomtest3",
   "theme": "syntax",
   "version": "0.0.2",
-  "description": "Hello World V.2",
+  "description": "Hello World V.3",
   "keywords": [
     "Hello",
     "World",
-    "v2"
+    "v3"
   ],
   "repository": "https://github.com/aduno168/atomtest",
   "license": "MIT",
