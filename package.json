@@ -1,11 +1,12 @@
 {
-  "name": "สล็อตออนไลน์ แตกง่าย ได้จริง",
+  "name": "atomtest2",
   "theme": "syntax",
-  "version": "0.1.2",
-  "description": "Hello World",
+  "version": "0.0.2",
+  "description": "Hello World V.2",
   "keywords": [
     "Hello",
-    "World"
+    "World",
+    "v2"
   ],
   "repository": "https://github.com/aduno168/atomtest",
   "license": "MIT",
